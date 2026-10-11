@@ -1,3 +1,4 @@
+
 # CRM Sales Management API
 
 A production-grade REST API for managing the complete B2B sales lifecycle — from lead capture through customer conversion, deal tracking, activity management, and analytics reporting.
@@ -381,3 +382,4 @@ GET /api/v1/health
 ```
 
 Returns `200 OK` when the server is running. Use this as your load balancer / uptime monitor endpoint.
+=======
